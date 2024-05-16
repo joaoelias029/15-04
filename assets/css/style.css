@@ -1,0 +1,85 @@
+* {
+    margin: 5px;
+    padding: 9px;
+    box-sizing: border-box;
+}
+.conteiner{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    height: 100vw;
+    flex-direction: column;
+    background-color: rgb(28, 27, 29);
+}
+.caixinha{
+    display: flex;
+    width: 90vw;
+    color: aliceblue;
+}
+
+p{
+    width: 50vw;
+    text-align: right;
+}
+h2{
+    width: 50vw;
+    font-size: 30px;
+}
+.imput{
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 100px;
+    background-color:blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.caixa2{
+    background-color: black;
+    border-radius: 10px;
+    padding-top: 1px;
+}
+
+.linha01
+.linha02
+.linha03
+.linha04{
+    margin: 10px 10px 10px 10px;
+}
+button{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: blue;
+}
+.linha05{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+}
+.igual{
+    width: 163px;
+    height: 80px;
+    margin-left: 2px;
+    background-color: ;
+    color: aliceblue;
+    font-size: 30px;
+}
+.reset{
+    width: 163px;
+    height: 80px;
+    margin-right: 2px;
+    background-color: ;
+}
+.del{
+    background-color: bisque;
+    color: antiquewhite;
+    font-size: 30px;
+}
+
+
+
